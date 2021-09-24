@@ -1,6 +1,6 @@
-# pivotalTrackerStoryNumberMaskForChrome
+# pivotalTrackerStoryNumberMaskForFirefox
 
-This google chrome plugin helps to display last 4 digits of story number in story name field in collapse field. This provides a display mask to Users and do not dirty existing data's. By default, Pivotal Tracker do not display story number in story name field in collapse mode.
+This firefox plugin helps to display last 4 digits of story number in story name field in collapse field. This provides a display mask to Users and do not dirty existing data's. By default, Pivotal Tracker do not display story number in story name field in collapse mode.
 
 Example:
 
