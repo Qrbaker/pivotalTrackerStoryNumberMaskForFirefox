@@ -18,7 +18,7 @@ Example:
 - Click `Add to Firefox`
 - Approve the extension when prompted
 
-You will now see the story short code appended to each story on your projects.
+You will now see the story short code prepended to each story on your projects.
 
 -----
 # How to install: Chrome
