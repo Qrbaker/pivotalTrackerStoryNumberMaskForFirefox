@@ -14,7 +14,7 @@ Example:
 -----
 # How to install: Firefox
 - Click the following link:
- - https://addons.mozilla.org/en-US/firefox/addon/pivotal-story-mask/
+  - https://addons.mozilla.org/en-US/firefox/addon/pivotal-story-mask/
 - Click `Add to Firefox`
 - Approve the extension when prompted
 
