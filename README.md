@@ -13,8 +13,9 @@ Example:
 
 -----
 # How to install: Firefox
-- https://addons.mozilla.org/en-US/firefox/addon/pivotal-story-mask/
-- click `Add to Firefox`
+- Click the following link:
+ - https://addons.mozilla.org/en-US/firefox/addon/pivotal-story-mask/
+- Click `Add to Firefox`
 - Approve the extension when prompted
 
 You will now see the story short code appended to each story on your projects.
